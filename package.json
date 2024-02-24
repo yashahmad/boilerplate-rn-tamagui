@@ -10,8 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
+    "@tamagui/babel-plugin": "^1.90.6",
+    "@tamagui/colors": "^1.90.6",
+    "@tamagui/font-inter": "^1.90.6",
+    "@tamagui/metro-plugin": "^1.90.6",
+    "@tamagui/theme-builder": "^1.90.6",
+    "@tamagui/themes": "^1.90.6",
     "react": "18.2.0",
-    "react-native": "0.73.4"
+    "react-native": "0.73.4",
+    "tamagui": "^1.90.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
